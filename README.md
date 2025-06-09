@@ -35,6 +35,10 @@ FAQs
 Gallery
 ![image](https://github.com/user-attachments/assets/ea984a8c-8653-415d-9040-496b39c53a22)
 
+Contact
+![image](https://github.com/user-attachments/assets/990dccb7-5311-468e-9a94-130b8eb89b88)
+
+
 
 
 ## 📂 How to Use
