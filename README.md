@@ -22,7 +22,8 @@ Home page
 
 About us 
 ![image](https://github.com/user-attachments/assets/ee1b492d-2ed1-4810-8c2c-b5aed730063d)
-![image](https://github.com/user-attachments/assets/f60b3808-2701-4d72-8af6-bcdf56bc154a)
+![image](https://github.com/user-attachments/assets/b32d6fc2-dbc2-4f1a-9920-6e9c5e365c01)
+
 ![image](https://github.com/user-attachments/assets/b9e12685-016f-4a91-9d62-049169738a6a)
 ![image](https://github.com/user-attachments/assets/fd48a2ac-aec5-4059-973c-ffefb3a3cf76)
 
